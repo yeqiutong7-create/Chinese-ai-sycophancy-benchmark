@@ -85,4 +85,7 @@ A benchmark for detecting sycophancy in Chinese dialogue models
 
 这套题库由Luna和Adrian在持续对抗中共同设计完成。
 
+相关文档
+
+首轮测试报告
 
